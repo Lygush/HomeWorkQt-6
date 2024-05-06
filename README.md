@@ -1,3 +1,3 @@
-# HomeWork 5
+# HomeWork 6
 
 **Домашнее задание по теме "QtConcurrent"**
